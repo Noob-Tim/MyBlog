@@ -160,11 +160,11 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/blinkfox
-  email: 1181062873@qq.com
+  github:  https://github.com/TimYQ
+  email: 319862515@qq.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
-  qq: 1181062873
+  qq: 319862515
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
   rss: true # true、false
@@ -607,7 +607,7 @@ ribbon:
 
 # 背景动态彩带.
 ribbon_dynamic:
-  enable: false
+  enable: true
 
 # sharejs文章分享模块.
 # 支持顺序，可选项目为twitter, facebook, google, qq, qzone, wechat, weibo, douban, linkedin.
