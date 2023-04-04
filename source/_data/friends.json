@@ -10,10 +10,63 @@
     "introduction": "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬",
     "url": "https://blinkfox.github.io/",
     "title": "前去学习"
-}, {
+},
+{
     "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "GG bond",
-    "introduction": "平凡的脚步也可以走出伟大的行程",
-    "url": "https://me.csdn.net/jlh912008548",
-    "title": "前去学习"
-}]
+    "name": "张三",
+    "introduction": "学习使我快乐",
+    "url": "https://www.example.com",
+    "title": "开始学习"
+},
+{
+    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+    "name": "李四",
+    "introduction": "不积跬步无以至千里",
+    "url": "https://www.example.com",
+    "title": "努力学习"
+}
+,{
+    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+    "name": "王五",
+    "introduction": "学海无涯，回头是岸",
+    "url": "https://www.example.com",
+    "title": "不断学习"
+}
+,{
+    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+    "name": "赵六",
+    "introduction": "学无止境，永远保持学习的热情",
+    "url": "https://www.example.com",
+    "title": "持续学习"
+}
+,{
+    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+    "name": "钱七",
+    "introduction": "学习是一种习惯，也是一种态度",
+    "url": "https://www.example.com",
+    "title": "坚持学习"
+}
+,{
+    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+    "name": "孙八",
+    "introduction": "学习是一种享受，也是一种成长",
+    "url": "https://www.example.com",
+    "title": "享受学习"
+}
+,
+{
+    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+    "name": "周九",
+    "introduction": "学习是一种投资，也是一种收获",
+    "url": "https://www.example.com",
+    "title": "投资学习"
+}
+,
+{
+    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+    "name": "吴十",
+    "introduction": "学习是一种进步，也是一种提高",
+    "url": "https://www.example.com",
+    "title": "进步学习"
+}
+]
