@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: TimBlog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Tim
+language: zh
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://timblog.toolboxx.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,25 +105,25 @@ deploy:
   type: ''
 
 #search
-search:
-  path: search.xml
-  field: post
+# search:
+#   path: search.xml
+#   field: post
 
-#emoji
-githubEmojis:
-  enable: true
-  className: github-emoji
-  inject: true
-  styles:
-  customEmojis:
-  
-#添加 RSS 订阅支持
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
-  hub:
-  content:
-  content_limit: 140
-  content_limit_delim: ' '
-  order_by: -date
+# #emoji
+# githubEmojis:
+#   enable: true
+#   className: github-emoji
+#   inject: true
+#   styles:
+#   customEmojis:
+
+# #添加 RSS 订阅支持
+# feed:
+#   type: atom
+#   path: atom.xml
+#   limit: 20
+#   hub:
+#   content:
+#   content_limit: 140
+#   content_limit_delim: ' '
+#   order_by: -date
