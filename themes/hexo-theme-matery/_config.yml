@@ -581,8 +581,8 @@ daovoice:
 
 # Tidio online contact
 tidio:
-  enable: false
-  public_key:
+  enable: true
+  public_key:jfqxcw8i3e2gjujlvput1mz8itmzs8sj
 
 # 腾讯兔小巢，见https://txc.qq.com/
 tuxiaochao:
