@@ -380,8 +380,8 @@ valine:
   appId:  gBcFFyjJNKwNklAdUq3iKBCu-gzGzoHsz
   appKey: K1JaRcg7DlvQrwW2XSgX9sN4
   serverURLs: https://gbcffyjj.lc-cn-n1-shared.com
-  notify: false
-  verify: false
+  notify: true
+  verify: true
   visitor: true
   avatar: 'mm' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
