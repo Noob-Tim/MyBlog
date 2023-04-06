@@ -376,10 +376,10 @@ tcaptcha:
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: false
-  appId:  # 必填
-  appKey: # 必填
-  serverURLs: # 必填 https://你的api
+  enable: true
+  appId:  gBcFFyjJNKwNklAdUq3iKBCu-gzGzoHsz
+  appKey: K1JaRcg7DlvQrwW2XSgX9sN4
+  serverURLs: https://gbcffyjj.lc-cn-n1-shared.com
   notify: false
   verify: false
   visitor: true
@@ -582,7 +582,7 @@ daovoice:
 # Tidio online contact
 tidio:
   enable: true
-  public_key:jfqxcw8i3e2gjujlvput1mz8itmzs8sj
+  public_key: jfqxcw8i3e2gjujlvput1mz8itmzs8sj
 
 # 腾讯兔小巢，见https://txc.qq.com/
 tuxiaochao:
