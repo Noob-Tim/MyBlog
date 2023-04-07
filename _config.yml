@@ -44,14 +44,14 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -64,6 +64,10 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
+
+search:
+  path: search.xml
+  field: post
 
 # Category & Tag
 default_category: uncategorized
