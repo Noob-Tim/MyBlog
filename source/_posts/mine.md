@@ -1,6 +1,15 @@
 
 ---
 title: 自我介绍
+date: 2023-04-07
+top: true
+cover: true
+tags: 
+  - 自我介绍
+  - Typora
+  - Markdown
+categories: mine
+
 ---
 # 自我介绍
 
