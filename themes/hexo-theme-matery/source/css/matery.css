@@ -241,7 +241,9 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    //background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    bakground-color: #808080;
+    opacity: 0.6;
 }
 
 .text-color {
@@ -533,7 +535,7 @@ header .go-back i {
     position: relative;
     display: flex;
     align-items: center;
-    height: 60vh;
+    height: 100vh;
     padding: 0;
     border: 0;
     overflow: hidden;
