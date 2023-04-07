@@ -1,73 +1,21 @@
 [{
-    "avatar": "http://image.luokangyuan.com/1_qq_27922023.jpg",
-    "name": "suntian",
-    "introduction": "我不是大佬，只是在追寻大佬的脚步",
-    "url": "http://luokangyuan.com/",
-    "title": "前去学习"
-},
-{
     "avatar": "http://image.luokangyuan.com/avatar.jpg",
     "name": "Rsky",
-    "introduction": "湖北不良人-天帅星Rsky",
+    "introduction": "天帅星Rsky",
     "url": "http://www.t1an.com/",
-    "title": "前去学习"
+    "title": "传送门"
 },
 {
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "张三",
-    "introduction": "学习使我快乐",
-    "url": "https://www.example.com",
-    "title": "开始学习"
+    "avatar": "https://github.com/TimYQ/ChatGPT-Next-Web/blob/main/public/favicon-32x32.png",
+    "name": "GPT",
+    "introduction": "GPT Web",
+    "url": "https://toolboxx.top",
+    "title": "传送门"
 },
 {
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "李四",
-    "introduction": "不积跬步无以至千里",
-    "url": "https://www.example.com",
-    "title": "努力学习"
-}
-,{
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "王五",
-    "introduction": "学海无涯，回头是岸",
-    "url": "https://www.example.com",
-    "title": "不断学习"
-}
-,{
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "赵六",
-    "introduction": "学无止境，永远保持学习的热情",
-    "url": "https://www.example.com",
-    "title": "持续学习"
-}
-,{
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "钱七",
-    "introduction": "学习是一种习惯，也是一种态度",
-    "url": "https://www.example.com",
-    "title": "坚持学习"
-}
-,{
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "孙八",
-    "introduction": "学习是一种享受，也是一种成长",
-    "url": "https://www.example.com",
-    "title": "享受学习"
-}
-,
-{
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "周九",
-    "introduction": "学习是一种投资，也是一种收获",
-    "url": "https://www.example.com",
-    "title": "投资学习"
-}
-,
-{
-    "avatar": "http://image.luokangyuan.com/avatar.jpg",
-    "name": "吴十",
-    "introduction": "学习是一种进步，也是一种提高",
-    "url": "https://www.example.com",
-    "title": "进步学习"
-}
-]
+    "avatar": "https://github.com/TimYQ/WebStackPage.github.io/blob/master/assets/images/favicon.png",
+    "name": "Nav",
+    "introduction": "Navigation",
+    "url": "https://navweb.toolboxx.top",
+    "title": "传送门"
+}]
